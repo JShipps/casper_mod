@@ -1,5 +1,7 @@
 # Casper Modified
 
+![alt text](http://i.imgur.com/4TSA3eu.png "Casper_Modified")
+
 A slightly modified version of the default theme for Ghost (Casper)
 
 View it live (https://jshipps.me)
@@ -8,6 +10,7 @@ View it live (https://jshipps.me)
 
 * Added PrismJS for syntax highlighting
 * Added Google+ Comments
+* Added Featured Images to home page
 
 # How to use
 
@@ -31,7 +34,7 @@ Well, there really isn't much for you to configure with this one - it's pretty m
 
 # Why do this?
 
-Simple, Ghost is absolutely phenomenal, although, there are a few issues I've got - the complete lack of a native comment system is one, the other syntax highlighting. So you end up with this modified version of the Casper theme which is going to be a work-in-progress for quite some time.
+Simple, Ghost is absolutely phenomenal, although, there are a few issues I've got - the complete lack of a native comment system is one, the other syntax highlighting and thirdly no featured image on home page support. So you end up with this modified version of the Casper theme which is going to be a work-in-progress for quite some time.
 ___
 # Casper
 
