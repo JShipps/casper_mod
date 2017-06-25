@@ -1,6 +1,6 @@
+# Casper Modified
 ***
 ### Table of Contents:
-* [Casper Modified](#caspermodified)
 * [What's different?](#whatsdifferent)
 * [How to use](#howtouse)
 * [Why do this?](#whydothis)
@@ -8,8 +8,6 @@
 * [Planned Features](#plannedfeatures)
 
 ___
-# <a name="caspermodified">Casper Modified</a>
-
 ![in the wild](http://i.imgur.com/4TSA3eu.png "Casper_Modified")
 
 A modified version of the default theme for Ghost (Casper)
