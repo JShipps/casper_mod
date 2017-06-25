@@ -5,6 +5,7 @@
 * [How to use](#howtouse)
 * [Why do this?](#whydothis)
 * [Changelog](#changelog)
+* [Planned Features](#plannedfeatures)
 
 ___
 # <a name="caspermodified">Casper Modified</a>
@@ -69,6 +70,14 @@ ___
 #### Version 1.0.0
 
 * Added support for PrismJS
+
+___
+# <a name="plannedfeatures">Planned features</a>
+
+- [ ] Add sidebar
+- [ ] Add top posts
+- [ ] Rework author page
+
 ___
 # Casper
 
