@@ -1,6 +1,6 @@
 # Casper Modified
 
-![alt text](http://i.imgur.com/4TSA3eu.png "Casper_Modified")
+![in the wild](http://i.imgur.com/4TSA3eu.png "Casper_Modified")
 
 A slightly modified version of the default theme for Ghost (Casper)
 
@@ -26,6 +26,9 @@ View it live (https://jshipps.me)
 # How to use
 
 ### PrismJS
+
+![example 1](http://i.imgur.com/0BcYRuC.png "Example 1")
+![example 2](http://i.imgur.com/ljU6iYA.png "Example 2")
 
 Use 3 backticks to start your syntax highlighting and close it with 3 backticks.
 
