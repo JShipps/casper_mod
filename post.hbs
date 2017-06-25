@@ -28,12 +28,7 @@
         <section class="post-content">
             {{content}}
         </section>
-        
-                <section class="comment">  
-   <div class="g-comments" data-href="{{@blog.url}}{{url}}" data-first_party_property="BLOGGER" data-view_type="FILTERED_POSTMOD">Loading Google+ Comments ...</div>
-    <script async type="text/javascript" src="//apis.google.com/js/plusone.js?callback=gpcb"></script>
-    <noscript>Please enable JavaScript to view the <a href="https://plus.google.com/">comments powered by Google+.</a></noscript>
-</section> 
+                            
         <footer class="post-footer">
 
         {{!-- Everything inside the #author tags pulls data from the author --}}
@@ -77,6 +72,28 @@
                 </a>
             </section>
 
+            <!-- Begin Disqus commenting -->
+                    <div id="disqus_thread"></div>
+            <script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+                (function() { // DON'T EDIT BELOW THIS LINE
+                    var d = document, s = d.createElement('script');
+                    s.src = 'https://jshipps.disqus.com/embed.js';
+                    s.setAttribute('data-timestamp', +new Date());
+                    (d.head || d.body).appendChild(s);
+                })();
+            </script>
+            <!-- End Disqus commenting -->
+            
             {{!-- Email subscribe form at the bottom of the page --}}
             {{#if @labs.subscribers}}
             <section class="gh-subscribe">
@@ -91,6 +108,7 @@
 
     </article>
 </main>
+
 
 {{!-- Links to Previous/Next posts --}}
 <aside class="read-next">

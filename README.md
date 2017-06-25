@@ -9,7 +9,7 @@ View it live (https://jshipps.me)
 # What's different?
 
 * Added PrismJS for syntax highlighting
-* Added Google+ Comments
+* Added Disqus Comments
 * Added Featured Images to home page
 
 # Changelog
@@ -17,11 +17,12 @@ View it live (https://jshipps.me)
 #### Version 1.0.1
 
 * Added featured image support on homepage
+* Added title link on homepage
+* Added Disqus comments.
 
 #### Version 1.0.0
 
 * Added support for PrismJS
-* Added Google+ Comments
 
 # How to use
 
@@ -42,9 +43,11 @@ Example:
 * language-html
 * language-lolcode
 
-### Google+ Comments
+### Disqus Comments
 
-Well, there really isn't much for you to configure with this one - it's pretty much ready to go out of the box.
+Edit post.hbs lines 76-94.
+
+Currently, it's set to display comments using my Discus information - change this to depict your own.
 
 ### Featured Image
 
