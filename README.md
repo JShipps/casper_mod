@@ -56,10 +56,10 @@ Simple, Ghost is absolutely phenomenal, although, there are a few issues I've go
 ___ 
 # <a name="changelog">Changelog</a>
 
-|   Version	|   Date 	|
-|---	|---	|---	|---	|---	|
-|   1.0.1	|   6-25-17	|
-|   1.0.0	|   6-23-17	|
+|Version|Release Date|
+| ------------- | ------------- |
+|1.0.1|June, 25 2017|
+|1.0.0|June, 23 2017|
 #### Version 1.0.1
 
 * Added featured image support on homepage
