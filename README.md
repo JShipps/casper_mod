@@ -1,4 +1,6 @@
-# Casper Modified
+***
+# Casper Modified : A Ghost Theme
+### The default Ghost theme __Casper__ modified by _JShipps_
 ***
 ### Table of Contents:
 * [What's different?](#whatsdifferent)
