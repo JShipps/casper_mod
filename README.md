@@ -12,6 +12,17 @@ View it live (https://jshipps.me)
 * Added Google+ Comments
 * Added Featured Images to home page
 
+# Changelog
+
+#### Version 1.0.1
+
+* Added featured image support on homepage
+
+#### Version 1.0.0
+
+* Added support for PrismJS
+* Added Google+ Comments
+
 # How to use
 
 ### PrismJS
