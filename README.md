@@ -58,8 +58,8 @@ ___
 
 |Version|Release Date|
 | ------------- | ------------- |
-|1.0.1|June, 25 2017|
-|1.0.0|June, 23 2017|
+|1.0.1|June 25 2017|
+|1.0.0|June 23 2017|
 #### Version 1.0.1
 
 * Added featured image support on homepage
