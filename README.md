@@ -2,6 +2,8 @@
 
 A slightly modified version of the default theme for Ghost (Casper)
 
+View it live (https://jshipps.me)
+
 # What's different?
 
 * Added PrismJS for syntax highlighting
@@ -26,6 +28,10 @@ Example:
 ### Google+ Comments
 
 Well, there really isn't much for you to configure with this one - it's pretty much ready to go out of the box.
+
+# Why do this?
+
+Simple, Ghost is absolutely phenomenal, although, there are a few issues I've got - the complete lack of a native comment system is one, the other syntax highlighting. So you end up with this modified version of the Casper theme which is going to be a work-in-progress for quite some time.
 ___
 # Casper
 
