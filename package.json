@@ -2,7 +2,7 @@
     "name": "casper_mod",
     "description": "The default personal blogging theme for Ghost. Beautiful, minimal and responsive. Slightly modified by JShipps",
     "demo": "https://jshipps.me",
-    "version": "1.3.7",
+    "version": "1.0.1",
     "engines": {
         "ghost": ">=0.9.0 <1.0.0"
     },
