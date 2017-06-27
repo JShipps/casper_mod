@@ -7,6 +7,9 @@
 * [How to use](#howtouse)
 * [Why do this?](#whydothis)
 * [Changelog](#changelog)
+	* [1.0.2](#102)
+	* [1.0.1](#101)
+	* [1.0.0](#100)
 * [Planned Features](#plannedfeatures)
 * [Notes](#notes)
 * [Original Casper](#ogcasper)
@@ -67,17 +70,17 @@ ___
 
 #### Version Changes
 
-##### Version 1.0.2
+##### <a name="102">Version 1.0.2</a>
 
 * Added linking on featured image to load into post
 
-##### Version 1.0.1
+##### <a name="101">Version 1.0.1</a>
 
 * Added featured image support on homepage
 * Added title link on homepage
 * Added Disqus comments.
 
-##### Version 1.0.0
+##### <a name="100">Version 1.0.0</a>
 
 * Initial commit to GitHub
 * Added support for PrismJS
