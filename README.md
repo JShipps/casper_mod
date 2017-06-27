@@ -81,7 +81,7 @@ ___
 ___
 # <a name="notes">Notes</a>
 
-* This is a pet project for me
+* This is a pet project for me, I haven't done anything this involved in a matter of years.
 * If you use this, please let me know - I'd love to see what you do with it!
 * If you have any changes, please fork this respiratory and push them!
 
