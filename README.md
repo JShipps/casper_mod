@@ -40,7 +40,8 @@ Example:
 
 ##### Disqus Comments
 
-Edit post.hbs lines 76-94.
+Edit ``post.hbs`. lines 76-94.
+Replace these lines with the code from your Disqus admin panel.
 
 Currently, it's set to display comments using my Discus information - change this to depict your own.
 
@@ -53,6 +54,11 @@ ___
 Simple, Ghost is absolutely phenomenal, although, there are a few issues I've got - the complete lack of a native comment system is one, the other syntax highlighting and thirdly no featured image on home page support. So you end up with this modified version of the Casper theme which is going to be a work-in-progress for quite some time.
 ___ 
 ### <a name="changelog">Changelog</a>
+
+##### Version 1.0.2
+
+* Added linking on featured image to load into post
+
 ##### Version 1.0.1
 
 * Added featured image support on homepage
