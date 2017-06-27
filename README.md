@@ -5,6 +5,9 @@
 #### Table of Contents:
 * [What's different?](#whatsdifferent)
 * [How to use](#howtouse)
+	* [PrismJS](#prismjs)
+	* [Disqus](#disqus)
+	* [Featured Image](#featuredimage)
 * [Why do this?](#whydothis)
 * [Changelog](#changelog)
 	* [1.0.2](#102)
@@ -28,7 +31,7 @@ ___
 ___ 
 # <a name="howtouse">How to use</a>
 
-##### PrismJS
+##### <a name="prismjs">PrismJS</a>
 
 ![example 1](http://i.imgur.com/0BcYRuC.png "Example 1")
 ![example 2](http://i.imgur.com/ljU6iYA.png "Example 2")
@@ -43,7 +46,7 @@ Example:
 * language-html
 * language-lolcode
 
-##### Disqus Comments
+##### <a name="disqus">Disqus Comments</a>
 
 Edit `post.hbs` lines 75-95.
 
@@ -55,7 +58,7 @@ Replace everything between these comments - given Disqus' way of providing code,
 
 *__Currently, it's set to display comments using my Discus information - change this to depict your own.__*
 
-##### Featured Image
+##### <a name="featuredimage">Featured Image</a>
 
 In addition to syntax highlighting - this is something I feel is sorely missing from the default Casper. The images are set to fit the content 100% so this should not be an issue.
 ___ 
