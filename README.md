@@ -17,13 +17,13 @@ A modified version of the default theme for Ghost (Casper)
 
 View it live (https://jshipps.me)
 ___ 
-### <a name="whatsdifferent">What's different?</a>
+# <a name="whatsdifferent">What's different?</a>
 
 * Added PrismJS for syntax highlighting
 * Added Disqus Comments
 * Added Featured Images to home page
 ___ 
-### <a name="howtouse">How to use</a>
+# <a name="howtouse">How to use</a>
 
 ##### PrismJS
 
@@ -51,11 +51,11 @@ Currently, it's set to display comments using my Discus information - change thi
 
 In addition to syntax highlighting - this is something I feel is sorely missing from the default Casper. The images are set to fit the content 100% so this should not be an issue.
 ___ 
-### <a name="whydothis">Why do this?</a>
+# <a name="whydothis">Why do this?</a>
 
 Simple, Ghost is absolutely phenomenal, although, there are a few issues I've got - the complete lack of a native comment system is one, the other syntax highlighting and thirdly no featured image on home page support. So you end up with this modified version of the Casper theme which is going to be a work-in-progress for quite some time.
 ___ 
-### <a name="changelog">Changelog</a>
+# <a name="changelog">Changelog</a>
 
 ##### Version 1.0.2
 
