@@ -53,7 +53,7 @@ Edit `post.hbs` lines 75-95.
 
 Replace everything between these comments - given Disqus' way of providing code, go ahead and replace the comments as well!
 
-*Currently, it's set to display comments using my Discus information - change this to depict your own.*
+*__Currently, it's set to display comments using my Discus information - change this to depict your own.__*
 
 ##### Featured Image
 
