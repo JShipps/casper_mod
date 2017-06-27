@@ -1,8 +1,8 @@
 {
     "name": "casper_mod",
-    "description": "The default personal blogging theme for Ghost. Beautiful, minimal and responsive. Slightly modified by JShipps",
+    "description": "The default personal blogging theme for Ghost. Beautiful, minimal and responsive. Modified by JShipps",
     "demo": "https://jshipps.me",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "engines": {
         "ghost": ">=0.9.0 <1.0.0"
     },
@@ -29,8 +29,8 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/iatethem/casper_mod.git"
+        "url": "https://github.com/jshipps/casper_mod.git"
     },
-    "bugs": "https://github.com/iatethem/casper_mod/issues",
-    "contributors": "https://github.com/iatethem/casper_mod/graphs/contributors"
+    "bugs": "https://github.com/jshipps/casper_mod/issues",
+    "contributors": "https://github.com/jshipps/casper_mod/graphs/contributors"
 }
