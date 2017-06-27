@@ -45,7 +45,7 @@ Example:
 
 ##### Disqus Comments
 
-Edit ``post.hbs`. lines 76-94.
+Edit `post.hbs`. lines 76-94.
 Replace these lines with the code from your Disqus admin panel.
 
 Currently, it's set to display comments using my Discus information - change this to depict your own.
