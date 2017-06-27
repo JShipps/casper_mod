@@ -57,6 +57,16 @@ Simple, Ghost is absolutely phenomenal, although, there are a few issues I've go
 ___ 
 # <a name="changelog">Changelog</a>
 
+#### Releases
+
+| Version        | Date           |
+| ------------- |:-------------:|
+| 1.0.2      | June 27, 2017|
+| 1.0.1      | June 25, 2017
+| 1.0.0 | June 18 2017
+
+#### Version Changes
+
 ##### Version 1.0.2
 
 * Added linking on featured image to load into post
@@ -69,6 +79,7 @@ ___
 
 ##### Version 1.0.0
 
+* Initial commit to GitHub
 * Added support for PrismJS
 
 ___
