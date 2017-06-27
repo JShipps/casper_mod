@@ -8,6 +8,8 @@
 * [Why do this?](#whydothis)
 * [Changelog](#changelog)
 * [Planned Features](#plannedfeatures)
+* [Notes](#notes)
+* [Original Casper](#ogcasper)
 ___
 ![in the wild](http://i.imgur.com/4TSA3eu.png "Casper_Modified")
 
@@ -70,13 +72,21 @@ ___
 * Added support for PrismJS
 
 ___
-### <a name="plannedfeatures">Planned features</a>
+# <a name="plannedfeatures">Planned features</a>
 
 - [ ] Add sidebar
 - [ ] Add top posts
 - [ ] Rework author page
+
 ___
-# Casper
+# <a name="notes">Notes</a>
+
+* This is a pet project for me
+* If you use this, please let me know - I'd love to see what you do with it!
+* If you have any changes, please fork this respiratory and push them!
+
+___
+# <a name="ogcasper">Original Casper</a>
 
 The default theme for [Ghost](http://github.com/tryghost/ghost/).
 
